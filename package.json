@@ -1,0 +1,9 @@
+{
+  "name": "2019向前冲",
+  "version": "1.0.0",
+  "description": "我的第一个gulp项目",
+  "devDependencies": {},
+  "dependencies": {
+    "gulp": "^4.0.0"
+  }
+}
